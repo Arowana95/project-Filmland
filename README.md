@@ -1,1 +1,1 @@
-Filmland projemin linki: https://arowana95.github.io/project-filmland
+Filmland Link: https://arowana95.github.io/project-filmland
